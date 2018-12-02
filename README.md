@@ -6,10 +6,10 @@ Hey guys,
 This is the fifth video our Player Character series taking about sounds.
 
 The topics we are going to cover in this tutorial are:
-* Intro - 00:55 - Sound considerations and why they are important in game design
-* Audio Resources - 03:38 - Finding free sounds using freesound.org
-* Tools - 05:19 - Editing those sounds using Audacity
-* Import Audio - 11:55 - And finally importing them into Unreal for future use
+* [Intro - 00:55](https://youtu.be/i8QQdr0Lo_Y?t=56) - Sound considerations and why they are important in game design
+* [Audio Resources - 03:38](https://youtu.be/i8QQdr0Lo_Y) - Finding free sounds using freesound.org
+* [Tools - 05:19](https://youtu.be/i8QQdr0Lo_Y?t=318) - Editing those sounds using Audacity
+* [Import Audio - 11:55](https://youtu.be/i8QQdr0Lo_Y?t=712) - And finally importing them into Unreal for future use
 
 Additionally here are a number of good resources for free music and sound ( as long as you include the correct copyrights )
 
@@ -27,7 +27,7 @@ As well as a link to a few different Audio Editors:
 
 You can find more details here: http://jollymonsterstudio.com/2018/12/01/unreal-c-tutorial-player-character-series-punch-part-4-sounds/
 
-You can find the associated video tutorial here: https://github.com/jollymonsterstudio/Unreal-Series-Player-Character-Part4
+You can find the associated video tutorial here: https://youtu.be/i8QQdr0Lo_Y
 
 The master branch of this project is the starter while part3-end is the fininished lesson.
 
