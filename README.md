@@ -3,7 +3,7 @@
 
 Hey guys,
 
-This is the fifth video our Player Character series taking about sounds.
+This is the fourth video our Player Character series taking about sounds.
 
 The topics we are going to cover in this tutorial are:
 * [Intro - 00:55](https://youtu.be/i8QQdr0Lo_Y?t=56) - Sound considerations and why they are important in game design
@@ -28,7 +28,5 @@ As well as a link to a few different Audio Editors:
 You can find more details here: http://jollymonsterstudio.com/2018/12/01/unreal-c-tutorial-player-character-series-punch-part-4-sounds/
 
 You can find the associated video tutorial here: https://youtu.be/i8QQdr0Lo_Y
-
-The master branch of this project is the starter while part3-end is the fininished lesson.
 
 Hope this helps, Thanks.
